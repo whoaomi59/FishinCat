@@ -1,0 +1,26 @@
+body {
+  background-image: url("/img/gb0F132.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: helvetica;
+}
+.conter {
+  text-align: center;
+}
+h1 {
+  font-size: 3em;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  background: blue;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+  background: rgba(0, 0, 255, 0.568);
+  padding: 10px;
+}
