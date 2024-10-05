@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="conter">
       <h1 className="animate__animated animate__bounce">Hola Hija</h1>
-      <a href="public/upload/flower.rar">Descargar Ficheros</a>
+      <a href="/upload/flower.rar">Descargar Ficheros</a>
     </div>
   );
 }
